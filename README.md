@@ -10,6 +10,7 @@
 
 ![Screenshot 2024-10-04 012918](https://github.com/user-attachments/assets/d63a8647-94cf-418e-bf30-1f105f4ec869)
 
+![Screenshot 2024-10-04 024916](https://github.com/user-attachments/assets/03f761cd-9512-4d46-b05d-c9b43538fed0)
 
                                                                                                                 
 - [Demo Project](https://saeidnikseresht.github.io/Spectacular-project/)

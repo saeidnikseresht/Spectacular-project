@@ -12,7 +12,7 @@
 
 
                                                                                                                 
-- [Demo Project](https://saeidnikseresht.github.io/Eye-catching-heather/)
+- [Demo Project](https://saeidnikseresht.github.io/Spectacular-project/)
 
 - Developed by 👨‍💻saeid nikseresht👨‍💻
 

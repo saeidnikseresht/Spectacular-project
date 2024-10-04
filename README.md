@@ -12,6 +12,8 @@
 
 ![Screenshot 2024-10-04 024916](https://github.com/user-attachments/assets/03f761cd-9512-4d46-b05d-c9b43538fed0)
 
+
+![Screenshot 2024-10-04 024711](https://github.com/user-attachments/assets/6c27a5d0-b4b8-4b14-a1a9-134a48d8b205)
                                                                                                                 
 - [Demo Project](https://saeidnikseresht.github.io/Spectacular-project/)
 
